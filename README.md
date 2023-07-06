@@ -12,3 +12,4 @@
 
 <img width="900" alt="Screenshot 2023-06-21 232643" src="https://github.com/Sourav20341/Game_Jam/blob/main/Screenshot%20(47).png">
 
+<img width="900" alt="Screenshot 2023-06-21 232643" src="https://github.com/Sourav20341/Game_Jam/blob/main/Screenshot%20(48).png">
